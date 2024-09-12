@@ -1,2 +1,2 @@
 # ex-situ-files-required
-files required for ex situ selection paper analysis
+Files required for data analysis associated with Martin et al.'s "Opportunity for Selection in Ex-Situ Living Collections for Plant Conservation"
